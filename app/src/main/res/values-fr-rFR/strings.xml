@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recharge</string>
+    <string name="error">Erreur</string>
+    <string name="settings">Paramėtres</string>
+    <string name="change">Changer</string>
+    <string name="language">Langue</string>
+    <string name="changeLanguage">Changer la langue</string>
+    <string name="disable">Desactiver</string>
+    <string name="notification">Notification</string>
+    <string name="disableNotification">Desactiver les notifications</string>
+    <string name="notifications">Notification</string>
+    <string name="guest">Client</string>
+    <string name="enabled">Activé</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallerie</string>
+    <string name="history">Historique</string>
+    <string name="help">Aide</string>
+    <string name="orangeTn">Orange TN</string>
+    <string name="ooredooTn">Ooredoo TN</string>
+    <string name="tunisieTelecom">Tunise Telecom</string>
+    <string name="send">Envoyer</string>
+    <string name="globalError">Erreur ! svp contacter le developpeur de l\'application</string>
+    <string name="noRechargeReccord">Aucune recharge de crédit n\'a été effectuée</string>
+    <string name="noCameraFound">Aucune camera trouvé</string>
+</resources>
